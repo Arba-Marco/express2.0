@@ -1,0 +1,28 @@
+html
+  head
+    title Song Details
+    //  CSS
+    style.
+      .demo {
+        background: #AECE1D;
+        background: -moz-linear-gradient(left, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+        background: -webkit-linear-gradient(left, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+        background: linear-gradient(to right, #AECE1D 0%, #1C6EA4 60%, #C50000 100%);
+      }
+  body
+    h1 Song Details
+    // Menu 
+    ul
+      li
+        a(href='/song/1') Song 1
+      li
+        a(href='/song/2') Song 2
+      li
+        a(href='/song/3') Song 3
+    // Aggiungi la classe demo e dettagli canzone
+    div.demo
+      img(src=songData.thumbnail, alt=songData.title)
+      p Song ID: #{songData.song_id}
+      p Title: #{songData.title}
+      p Author: #{songData.author}
+      p Lyrics: #{songData.lyrics}

@@ -1,0 +1,26 @@
+{
+    "songs": [
+      {
+        "song_id": 1,
+        "title": "brivido",
+        "author": "Gue feat Marracash",
+        "lyrics": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "thumbnail": "Bravo_ragazzo.jpg"
+      },
+      {
+        "song_id": 2,
+        "title": "Stan",
+        "author": "Eminem",
+        "lyrics": "lorem ipsumsadsdasdasdas dsasdasda sasdasdasd ",
+        "thumbnail": "Marshall_Mathers_LP.jpg"
+      },
+      {
+        "song_id": 3,
+        "title": "Crudelia.",
+        "author": "Marracash",
+        "lyrics": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "thumbnail": "Persona.jpg"
+      }
+    ]
+  }
+  
